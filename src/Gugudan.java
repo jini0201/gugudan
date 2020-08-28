@@ -26,7 +26,6 @@ public class Gugudan {
 		System.out.println(3 * 6);
 		System.out.println(3 * 7);
 		System.out.println(3 * 8);
-		System.out.println(3 * 9);
-		
+		System.out.println(3 * 9);	
 	}
 }
